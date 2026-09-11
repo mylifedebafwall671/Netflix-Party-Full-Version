@@ -234,3 +234,6 @@ This repository serves as the official landing page for Netflix Party. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Netflix Party today!**
+
+---
+**Last updated:** 2026-09-11 20:17:28 UTC
