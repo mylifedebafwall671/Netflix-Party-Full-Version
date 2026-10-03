@@ -236,4 +236,4 @@ This repository serves as the official landing page for Netflix Party. The softw
 **Get the most recent version of Netflix Party today!**
 
 ---
-**Last updated:** 2026-10-03 07:23:57 UTC
+**Last updated:** 2026-10-03 12:55:00 UTC
